@@ -14,8 +14,8 @@ Key Features:
 - Switch between songs
 - Custom UI to update based on the album cover
 
-![Browser]("./public/images/web-home.png")
-![Mobile]("./public/images/mobile.png")
+![Browser](./public/images/web-home.png)
+![Mobile](./public/images/mobile.png)
 
 ## Future Updates
 
