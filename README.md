@@ -14,6 +14,9 @@ Key Features:
 - Switch between songs
 - Custom UI to update based on the album cover
 
+![Browser]("./public/images/web-home.png")
+![Mobile]("./public/images/mobile.png")
+
 ## Future Updates
 
 - User Authentication and profile management
@@ -39,6 +42,6 @@ Key Features:
 
 1. Clone the repository:
    ```bash
-   git clone [git@github.com:venu-prasath/music-streaming-app.git]
-   cd [music-streaming-app]
+   git clone git@github.com:venu-prasath/music-streaming-app.git
+   cd music-streaming-app
    ```
